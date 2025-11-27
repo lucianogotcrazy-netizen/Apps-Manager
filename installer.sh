@@ -6,7 +6,7 @@ sudo -v || exit 1
 SUDO_LOOP_PID=$!
 
 # URL del paquete remoto
-REMOTE_NEW="PLACEHOLDER"
+REMOTE_NEW="https://github.com/lucianogotcrazy-netizen/Apps-Manager/releases/download/APPS/app.bin"
 
 # Colors
 GREEN="\e[92m"
