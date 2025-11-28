@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[es_MX]=Installs Apps Manager and launches 'apps'
+Comment=Installs Apps Manager and launches 'apps'
+Exec=konsole --noclose -e bash -c 'curl -sSL https://raw.githubusercontent.com/lucianogotcrazy-netizen/Apps-Manager/main/installer.sh | bash && apps'
+GenericName[es_MX]=
+GenericName=
+Icon=system-software-install
+MimeType=
+Name[es_MX]=Apps Manager Installer
+Name=Apps Manager Installer
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
